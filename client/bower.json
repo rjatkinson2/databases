@@ -1,0 +1,25 @@
+{
+  "name": "chatterbox",
+  "version": "0.0.0",
+  "homepage": "https://github.com/rjatkinson2/2015-02-databases",
+  "authors": [
+    "Hack Reactor Students <accounts@hackreactor.com>"
+  ],
+  "description": "box chatting for the masses",
+  "main": "index.html",
+  "keywords": [
+    "chat"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3",
+    "underscore": "~1.8.2"
+  }
+}
